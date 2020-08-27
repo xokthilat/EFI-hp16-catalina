@@ -705,7 +705,7 @@
 			</array>
 		</dict>
 		<key>WriteFlash</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
